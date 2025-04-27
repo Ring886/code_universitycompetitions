@@ -8,7 +8,7 @@ import com.baomidou.mybatisplus.enums.IdType;
 
 /**
 * @author yangliyuan
-* @version 创建时间：2024年12月7日 下午8:36:05
+* @version 创建时间：2025年3月7日 下午8:36:05
 * 类说明 : 
 */
 @TableName("config")

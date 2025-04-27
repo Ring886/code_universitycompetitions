@@ -13,7 +13,7 @@ import com.utils.PageUtils;
 /**
  * token
  * @author yangliyuan
- * @date 2024年12月10日 上午9:18:20
+ * @date 2025年3月10日 上午9:18:20
  */
 public interface TokenService extends IService<TokenEntity> {
  	PageUtils queryPage(Map<String, Object> params);
